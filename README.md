@@ -23,7 +23,7 @@ O curso foi dividido em 5 módulos principais, abrangendo:
 ## 🚀 Como executar o projeto
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/Ayryslaine/logica_js_alura.git](https://github.com/Ayryslaine/logica_js_alura.git)
+   git clone [[https://github.com/Ayryslaine/logica_js_alura.git](https://github.com/Ayryslaine/logica_js_alura.git)](https://github.com/Ayryslaine/adivinhacao_numero_logica_js.git)
 2. Abra o arquivo index.html no seu navegador ou utilize a extensão Live Server no VS Code.
 
 ## 📚 Curso
